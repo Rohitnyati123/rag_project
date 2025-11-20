@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-huggingface
+pymongo
+pypdf
+boto3
+chromadb
+langgraph
+langchain-text-splitters
+transformers
+rank_bm25
